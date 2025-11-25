@@ -1,0 +1,10 @@
+.venv/
+venv/
+*/.venv
+*/venv
+
+__pychche__/
+&py.class
+
+*.npy
+*.h5
